@@ -1,0 +1,22 @@
+remote:
+  host:
+  user: joaozinho
+  pass: 9Je0ESuaiP
+  port: 22
+  path: /home/joao
+remote-database:
+  host: 127.0.0.1
+  user: root
+  pass: 8rFbH_M&5O
+  database: joao-db
+  url-wordpress: http://joao.com
+local-database:
+  host: 127.0.0.1
+  user: root
+  pass: 123
+  database: joao-db
+  url-wordpress: http://joao.local
+
+
+
+

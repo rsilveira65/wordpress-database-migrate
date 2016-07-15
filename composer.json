@@ -1,0 +1,14 @@
+{
+  "name": "wordpress-database-migrate",
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/"
+    }
+  },
+  "require": {
+    "symfony/yaml": "2.5.4",
+    "monolog/monolog": "1.2.1",
+    "symfony/console": "^2.8",
+    "symfony/dependency-injection": "^3.1"
+  }
+}
